@@ -1,11 +1,12 @@
 ## Special-diagramation
 
-Este componente tiene como objetivo mostrarle al cliente una grilla dinamica para mostrar sus productos 
- ## vista del componente
+Este componente tiene como objetivo mostrarle al cliente una grilla dinamica para mostrar sus productos. 
+
+## vista del componente
 
 ![grig__custom](https://user-images.githubusercontent.com/97923792/209364210-8e57bb6a-e863-4da9-a274-49caa777496c.jpg)
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
